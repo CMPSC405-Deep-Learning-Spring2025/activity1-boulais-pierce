@@ -28,3 +28,7 @@ larger ethical concerns, seeing as it would likely only be used as part of a lar
 
 What was easy to understand about the neural network?
 What challenges did you face?
+
+The easiest part to understand was probably the general outline of the neural
+network. The most challenging part might have been picking equations and values
+within the nebulous construction.
