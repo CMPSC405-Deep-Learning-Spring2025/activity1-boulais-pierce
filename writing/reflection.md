@@ -13,7 +13,12 @@ What did you notice about how small changes (e.g., weights) affect outcomes?
 The network's output did make sense, as the values chosen would indicate that
 the processed data was the desired outcome (an image of a U.S. stop sign).
 Our activation functions were referenced off of examples of sigmoid functions,
-as that is relatively simple. TODO: Another trial
+as that is relatively simple.
+
+Applying an alternate set of values (shape = 3, color = 1, text = 5) gives the
+a similar final value (0.9999 truncated), however, which indicates that the
+calculations do not fully serve their purpose, or that the weights/bias are
+improper.
 
 ### Ethics
 
