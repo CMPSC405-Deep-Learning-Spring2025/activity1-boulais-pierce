@@ -1,5 +1,9 @@
 ## Names: Mordred Boulais, Haylee Pierce
 
+### Image
+
+![Picture of Neural Network Simulation](nn_picture.jpg)
+
 ### Performance
 
 Did the network's output make sense?
