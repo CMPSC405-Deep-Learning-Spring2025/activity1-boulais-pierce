@@ -18,7 +18,7 @@ as that is relatively simple.
 Applying an alternate set of values (shape = 3, color = 1, text = 5) gives the
 a similar final value (0.9999 truncated), however, which indicates that the
 calculations do not fully serve their purpose, or that the weights/bias are
-improper.
+improper. 
 
 ### Ethics
 
@@ -36,4 +36,7 @@ What challenges did you face?
 
 The easiest part to understand was probably the general outline of the neural
 network. The most challenging part might have been picking equations and values
-within the nebulous construction.
+within the nebulous construction. We suspect we may have missed a calculation
+in our implementation; adding it, we get 0.982 for both still. Thus, it's likely
+something in how we are using our weights, which we are struggling to understand
+how to implement in our equations/neurons.
